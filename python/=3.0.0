@@ -1,0 +1,37 @@
+Collecting ipython
+  Downloading ipython-5.5.0-py2-none-any.whl (758kB)
+Collecting pickleshare (from ipython)
+  Downloading pickleshare-0.7.4-py2.py3-none-any.whl
+Collecting simplegeneric>0.8 (from ipython)
+  Downloading simplegeneric-0.8.1.zip
+Collecting traitlets>=4.2 (from ipython)
+  Downloading traitlets-4.3.2-py2.py3-none-any.whl (74kB)
+Collecting backports.shutil-get-terminal-size; python_version == "2.7" (from ipython)
+  Downloading backports.shutil_get_terminal_size-1.0.0-py2.py3-none-any.whl
+Requirement already satisfied: decorator in /home/saeed/.local/lib/python2.7/site-packages (from ipython)
+Collecting pygments (from ipython)
+  Downloading Pygments-2.2.0-py2.py3-none-any.whl (841kB)
+Collecting pexpect; sys_platform != "win32" (from ipython)
+  Downloading pexpect-4.3.1-py2.py3-none-any.whl (55kB)
+Collecting pathlib2; python_version == "2.7" or python_version == "3.3" (from ipython)
+  Downloading pathlib2-2.3.0-py2.py3-none-any.whl
+Requirement already satisfied: setuptools>=18.5 in /home/saeed/.local/lib/python2.7/site-packages (from ipython)
+Collecting prompt-toolkit<2.0.0,>=1.0.4 (from ipython)
+  Downloading prompt_toolkit-1.0.15-py2-none-any.whl (247kB)
+Collecting enum34; python_version == "2.7" (from traitlets>=4.2->ipython)
+  Downloading enum34-1.1.6-py2-none-any.whl
+Requirement already satisfied: six in /home/saeed/.local/lib/python2.7/site-packages (from traitlets>=4.2->ipython)
+Collecting ipython-genutils (from traitlets>=4.2->ipython)
+  Downloading ipython_genutils-0.2.0-py2.py3-none-any.whl
+Collecting ptyprocess>=0.5 (from pexpect; sys_platform != "win32"->ipython)
+  Downloading ptyprocess-0.5.2-py2.py3-none-any.whl
+Collecting scandir; python_version < "3.5" (from pathlib2; python_version == "2.7" or python_version == "3.3"->ipython)
+  Downloading scandir-1.6.tar.gz
+Collecting wcwidth (from prompt-toolkit<2.0.0,>=1.0.4->ipython)
+  Downloading wcwidth-0.1.7-py2.py3-none-any.whl
+Installing collected packages: scandir, pathlib2, pickleshare, simplegeneric, enum34, ipython-genutils, traitlets, backports.shutil-get-terminal-size, pygments, ptyprocess, pexpect, wcwidth, prompt-toolkit, ipython
+  Running setup.py install for scandir: started
+    Running setup.py install for scandir: finished with status 'done'
+  Running setup.py install for simplegeneric: started
+    Running setup.py install for simplegeneric: finished with status 'done'
+Successfully installed backports.shutil-get-terminal-size-1.0.0 enum34-1.1.6 ipython-5.5.0 ipython-genutils-0.2.0 pathlib2-2.3.0 pexpect-4.3.1 pickleshare-0.7.4 prompt-toolkit-1.0.15 ptyprocess-0.5.2 pygments-2.2.0 scandir-1.6 simplegeneric-0.8.1 traitlets-4.3.2 wcwidth-0.1.7

@@ -1,0 +1,42 @@
+[  1%] Built target mkldnn_gtest
+[ 38%] Built target mkldnn
+[ 40%] Built target simple-training-net-c
+[ 40%] Built target simple-net-c
+[ 44%] Built target test_lrn_forward
+[ 46%] Built target simple-net-cpp
+[ 49%] Built target test_convolution_backward_weights
+[ 52%] Built target test_c_symbols-c
+[ 52%] Built target test_convolution_backward_data_s16s16s32
+[ 53%] Built target test_lrn_backward
+[ 53%] Built target test_sum
+[ 57%] Built target test_relu
+[ 59%] Built target test_concat
+[ 59%] Built target api-c
+[ 60%] Built target test_convolution_backward_data_f32
+[ 62%] Built target test_softmax_forward
+[ 62%] Built target simple-training-net-cpp
+[ 64%] Built target test_eltwise
+[ 66%] Built target test_convolution_relu_forward_s16s16s32
+[ 70%] Built target test_inner_product_backward_weights
+[ 71%] Built target test_inner_product_forward
+[ 71%] Built target test_pooling_backward
+[ 74%] Built target test_iface_attr
+[ 74%] Built target test_convolution_format_any
+[ 81%] Built target test_convolution_forward_f32
+[ 81%] Built target test_batch_normalization
+[ 83%] Built target test_iface_pd_iter
+[ 77%] Built target test_inner_product_backward_data
+[ 85%] Built target test_convolution_forward_s16s16s32
+[ 85%] Built target test_reorder
+[ 87%] Built target test_convolution_relu_forward_f32
+[ 88%] Built target test_pooling_forward
+[100%] Built target benchdnn
+Install the project...
+-- Install configuration: "Release"
+-- Up-to-date: /home/saeed/caffe/caffe-intel/external/mkldnn/install/share/doc/mkldnn/LICENSE
+-- Up-to-date: /home/saeed/caffe/caffe-intel/external/mkldnn/install/lib/libmkldnn.so.0.11.0
+-- Up-to-date: /home/saeed/caffe/caffe-intel/external/mkldnn/install/lib/libmkldnn.so.0
+-- Up-to-date: /home/saeed/caffe/caffe-intel/external/mkldnn/install/lib/libmkldnn.so
+-- Up-to-date: /home/saeed/caffe/caffe-intel/external/mkldnn/install/include/mkldnn.h
+-- Up-to-date: /home/saeed/caffe/caffe-intel/external/mkldnn/install/include/mkldnn_types.h
+-- Up-to-date: /home/saeed/caffe/caffe-intel/external/mkldnn/install/include/mkldnn.hpp

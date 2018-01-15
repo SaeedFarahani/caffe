@@ -1621,7 +1621,7 @@ layer {
       output_name_prefix: "detections_minival_ssd300_results"
       output_format: "COCO"
       label_map_file: "data/coco/labelmap_coco.prototxt"
-      name_size_file: "data/coco/minival2014_name_size.txt"
+      name_size_file: "data/coco/val2014_name_size.txt"
       num_test_image: 5000
     }
     code_type: CENTER_SIZE

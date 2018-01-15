@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+7cadeb89bc3a16723576dbeec54829d8 CMakeFiles/MKLDNN_Build
+a90f6fb0f44acd34743db8fa0522b789 CMakeFiles/MKLDNN_Build-complete
+e56e32bf4229250695403e61c1ef8764 CMakeFiles/lint
+1621b5d2dcfcdee9f4ac6f57d88f0035 CMakeFiles/pytest
+7096a4ad52bcd2c4075b3960c0104c91 CMakeFiles/symlink_to_build
+ec48b7503e0038f3ba6bc38aa1a87dfa MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-build
+f220fa61f299ae34fe50bc81b23a6400 MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-configure
+18a9a784d04450d32693ab9d34f0ebd0 MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-download
+e79fe3cb51bc2b66986566549a38a0b4 MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-install
+3693cb9c9414c4307c0cc4a08ca5a8b7 MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-mkdir
+e9ae84b540d716b68745dfac1a12c9f3 MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-patch
+2e2cd291a58804027d26c7d5ab7a5c70 MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-update
+f1e256e8fdf55309cd0e3e99619ff7d0 include/caffe/proto/caffe.pb.cc
+427a0ffc869540dfdafda8f86692cc64 src/caffe/test/CMakeFiles/runtest

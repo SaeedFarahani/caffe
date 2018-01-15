@@ -6,7 +6,7 @@ export PYTHONPATH=$CAFFE_ROOT/"python"
 # also in $DATAPATH/data directory you should have unpacked
 # VOCdevkit and/or coco directories. see more in ./data/coco/README.md
 # this variable is used in create_list and create_data scripts only.
-export DATAPATH="/home/data/ssd/"
+export DATAPATH="/home/saeed/caffe/caffe-intel/data/coco/"
 
 echo CAFFE_ROOT is $CAFFE_ROOT
 echo PYTHONPATH is $PYTHONPATH

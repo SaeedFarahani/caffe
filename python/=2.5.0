@@ -1,0 +1,3 @@
+Requirement already satisfied: protobuf in /home/saeed/.local/lib/python2.7/site-packages
+Requirement already satisfied: six>=1.9 in /home/saeed/.local/lib/python2.7/site-packages (from protobuf)
+Requirement already satisfied: setuptools in /home/saeed/.local/lib/python2.7/site-packages (from protobuf)

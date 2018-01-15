@@ -1,0 +1,26 @@
+Log file created at: 2018/01/14 14:14:48
+Running on machine: saeed-virtual-machine
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0114 14:14:48.865211 29093 convert_annoset.cpp:122] A total of 20288 images.
+I0114 14:14:48.873276 29093 db_lmdb.cpp:35] Opened lmdb /home/saeed/caffe/caffe-intel/data/coco/lmdb/coco_testdev_lmdb
+I0114 14:17:13.164067 29093 convert_annoset.cpp:195] Processed 1000 files.
+I0114 14:18:31.891619 29093 convert_annoset.cpp:195] Processed 2000 files.
+I0114 14:19:48.188041 29093 convert_annoset.cpp:195] Processed 3000 files.
+I0114 14:21:52.091151 29093 convert_annoset.cpp:195] Processed 4000 files.
+I0114 14:23:42.520385 29093 convert_annoset.cpp:195] Processed 5000 files.
+I0114 14:25:07.937419 29093 convert_annoset.cpp:195] Processed 6000 files.
+I0114 14:26:40.128597 29093 convert_annoset.cpp:195] Processed 7000 files.
+I0114 14:28:04.527366 29093 convert_annoset.cpp:195] Processed 8000 files.
+I0114 14:29:28.352921 29093 convert_annoset.cpp:195] Processed 9000 files.
+I0114 14:30:53.778980 29093 convert_annoset.cpp:195] Processed 10000 files.
+I0114 14:32:12.800695 29093 convert_annoset.cpp:195] Processed 11000 files.
+I0114 14:33:27.293905 29093 convert_annoset.cpp:195] Processed 12000 files.
+I0114 14:34:26.156507 29093 convert_annoset.cpp:195] Processed 13000 files.
+I0114 14:36:00.757560 29093 convert_annoset.cpp:195] Processed 14000 files.
+I0114 14:37:30.316406 29093 convert_annoset.cpp:195] Processed 15000 files.
+I0114 14:38:46.876973 29093 convert_annoset.cpp:195] Processed 16000 files.
+I0114 14:40:15.693523 29093 convert_annoset.cpp:195] Processed 17000 files.
+I0114 14:41:56.283434 29093 convert_annoset.cpp:195] Processed 18000 files.
+I0114 14:43:22.664324 29093 convert_annoset.cpp:195] Processed 19000 files.
+I0114 14:44:56.909905 29093 convert_annoset.cpp:195] Processed 20000 files.
+I0114 14:46:26.015103 29093 convert_annoset.cpp:201] Processed 20288 files.

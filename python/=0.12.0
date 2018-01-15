@@ -1,0 +1,5 @@
+Requirement already satisfied: pandas in /home/saeed/.local/lib/python2.7/site-packages
+Requirement already satisfied: pytz>=2011k in /home/saeed/.local/lib/python2.7/site-packages (from pandas)
+Requirement already satisfied: numpy>=1.9.0 in /home/saeed/.local/lib/python2.7/site-packages (from pandas)
+Requirement already satisfied: python-dateutil in /home/saeed/.local/lib/python2.7/site-packages (from pandas)
+Requirement already satisfied: six>=1.5 in /home/saeed/.local/lib/python2.7/site-packages (from python-dateutil->pandas)

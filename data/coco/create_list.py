@@ -5,8 +5,9 @@ import shutil
 import subprocess
 import sys
 
-datapath = os.environ['DATAPATH']
+datapath = "/home/saeed/caffe/caffe-intel"#os.environ['DATAPATH']
 CURDIR = os.path.dirname(os.path.realpath(__file__))
+print CURDIR
 
 # If true, re-create all list files.
 redo = True
@@ -29,7 +30,7 @@ test_list_file = "{}/test.txt".format(CURDIR)
 # Create training set.
 # We follow Ross Girschick's split.
 if redo or not os.path.exists(train_list_file):
-    datasets = ["train2014", "valminusminival2014"]
+    datasets = ["train2014"]
     img_files = []
     anno_files = []
     for dataset in datasets:
@@ -54,7 +55,7 @@ if redo or not os.path.exists(train_list_file):
             f.write("{} {}\n".format(img_files[i], anno_files[i]))
 
 if redo or not os.path.exists(minival_list_file):
-    datasets = ["minival2014"]
+    datasets = ["val2014"]
     subset = "val2014"
     img_files = []
     anno_files = []
@@ -118,4 +119,3 @@ if redo or not os.path.exists(test_list_file):
     with open(test_list_file, "w") as f:
         for i in xrange(len(img_files)):
             f.write("{} {}\n".format(img_files[i], anno_files[i]))
-

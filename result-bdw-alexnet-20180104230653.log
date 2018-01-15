@@ -1,0 +1,29 @@
+
+CPUs with optimal settings:
+    Intel Xeon E5-26xx (Broadwell)
+    Intel Xeon Phi 72xx (Knights Landing)
+    Intel Xeon Platinum 8180 (Skylake)
+    Intel Xeon 6148 (Skylake)
+
+Settings:
+    CPU: bdw
+    Host file: 
+    Running mode: time
+    Benchmark: none
+    Debug option: off
+    Engine: 
+    Number of MLSL servers: -1
+        -1: selected automatically according to CPU model.
+            BDW/SKX: 2, KNL: 4
+    Iteration for running caffe time: 100
+    Model file for running caffe time: models/intel_optimized_models/alexnet/bdw/train_val_dummydata.prototxt
+    Network: opa
+Flat mode.
+Create result directory: /home/saeed/caffe/caffe-intel/result-20180104230653
+    Number of nodes: 1
+Warning: Permanently added 'saeed-virtual-machine' (ECDSA) to the list of known hosts.
+rm: cannot remove '/dev/shm/pulse-shm-1401013367': Operation not permitted
+rm: cannot remove '/dev/shm/pulse-shm-292296439': Operation not permitted
+rm: cannot remove '/dev/shm/pulse-shm-3871860879': Operation not permitted
+Permission denied, please try again.
+Permission denied, please try again.

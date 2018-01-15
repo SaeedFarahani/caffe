@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/CMakeFiles/MKLDNN_Build"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/CMakeFiles/MKLDNN_Build.rule"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/CMakeFiles/MKLDNN_Build-complete.rule"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-install.rule"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-mkdir.rule"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-download.rule"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-update.rule"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-patch.rule"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-configure.rule"
+		},
+		{
+			"file" : "/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MKLDNN_Build"
+		],
+		"name" : "MKLDNN_Build"
+	}
+}

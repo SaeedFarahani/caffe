@@ -1,0 +1,8 @@
+-- Detecting Intel(R) MKL: trying mklml_intel
+-- Intel(R) MKL: include /home/saeed/caffe/caffe-intel/external/mkl/mklml_lnx_2018.0.1.20171007/include
+-- Intel(R) MKL: lib /home/saeed/caffe/caffe-intel/external/mkl/mklml_lnx_2018.0.1.20171007/lib/libmklml_intel.so
+-- Intel(R) MKL: OpenMP lib /home/saeed/caffe/caffe-intel/external/mkl/mklml_lnx_2018.0.1.20171007/lib/libiomp5.so
+-- Could NOT find Doxygen (missing:  DOXYGEN_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/saeed/caffe/caffe-intel/external/mkldnn/build

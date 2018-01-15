@@ -1,0 +1,3 @@
+Requirement already satisfied: h5py in /home/saeed/.local/lib/python2.7/site-packages
+Requirement already satisfied: numpy>=1.7 in /home/saeed/.local/lib/python2.7/site-packages (from h5py)
+Requirement already satisfied: six in /home/saeed/.local/lib/python2.7/site-packages (from h5py)

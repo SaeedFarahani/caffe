@@ -1,0 +1,4 @@
+Log file created at: 2018/01/14 14:46:27
+Running on machine: saeed-virtual-machine
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0114 14:46:27.873492 30915 convert_annoset.cpp:122] A total of 40504 images.

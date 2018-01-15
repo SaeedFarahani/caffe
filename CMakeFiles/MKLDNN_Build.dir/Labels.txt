@@ -1,0 +1,13 @@
+# Target labels
+ MKLDNN_Build
+# Source files and their labels
+/home/saeed/caffe/caffe-intel/CMakeFiles/MKLDNN_Build
+/home/saeed/caffe/caffe-intel/CMakeFiles/MKLDNN_Build.rule
+/home/saeed/caffe/caffe-intel/CMakeFiles/MKLDNN_Build-complete.rule
+/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-install.rule
+/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-mkdir.rule
+/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-download.rule
+/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-update.rule
+/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-patch.rule
+/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-configure.rule
+/home/saeed/caffe/caffe-intel/MKLDNN_Build-prefix/src/MKLDNN_Build-stamp/MKLDNN_Build-build.rule

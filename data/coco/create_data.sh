@@ -1,10 +1,11 @@
 cur_dir=$(cd $( dirname ${BASH_SOURCE[0]} ) && pwd )
-root_dir=$cur_dir/../..
+root_dir="/home/saeed/caffe/caffe-intel"
 
-cd $root_dir
+cd "$root_dir/data/coco"
+echo pwd
 
 redo=false
-data_root_dir="$DATAPATH/data/coco"
+data_root_dir="/home/saeed/caffe/caffe-intel/data/coco"
 dataset_name="coco"
 mapfile="$root_dir/data/$dataset_name/labelmap_coco.prototxt"
 anno_type="detection"
